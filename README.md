@@ -1,0 +1,1 @@
+Creating a web page for a game called 'Who Knows You Better?' This game will prompt the user to enter their name. After that, it will ask a series of questions. Based on the user's answers and the correct answers, the game will determine who among their friends knows them best.
